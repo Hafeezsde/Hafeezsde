@@ -1,4 +1,4 @@
-![I am a web devoloper ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a web devoloper ](Navy Blue Geometric Technology LinkedIn Banner.png)
 
 ### Hi there 👋, MD.SADMAN HAFEEZ SHUVO
 #### I am a web devoloper 
