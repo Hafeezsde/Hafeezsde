@@ -1,4 +1,4 @@
-![I am a web devoloper ]([Navy Blue Geometric Technology LinkedIn Banner.png](https://github.com/Hafeezsde/Hafeezsde/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png?raw=true))
+![I am a web devoloper ](https://github.com/Hafeezsde/Hafeezsde/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 
 ### Hi there 👋, MD.SADMAN HAFEEZ SHUVO
 #### I am a web devoloper 
