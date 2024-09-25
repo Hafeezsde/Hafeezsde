@@ -25,7 +25,7 @@ Skills: HTML / CSS/Javascript
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/github/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/github)  
+ 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=github)  
+ 
 
