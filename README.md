@@ -1,4 +1,4 @@
-![I am a web devoloper ](https://github.com/Hafeezsde/Hafeezsde/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+![I am a web devoloper ]
 
 <h1 align="center">Hi 👋, I'm Sadman Hafeez</h1>
 <h3 align="center">A passionate frontend developer and designer from Bangladesh</h3>
